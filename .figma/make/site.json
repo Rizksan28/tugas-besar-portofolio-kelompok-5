@@ -1,0 +1,11 @@
+{
+  "title": "KELOMPOK 5 Portfolio",
+  "description": "Explore Kelompok 5’s creative technology projects, team profiles, and achievements through a cinematic portfolio built to showcase the collective’s work and expertise.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
